@@ -14,4 +14,4 @@ The website is created using HTML and CSS only.
 Live  : <a href="https://wginkajiado.github.io/portfolio/">View Here</a>
 
 ## Project Landing Page
-![image](assets\landing_page.jpg)# portfolio
+![image](https://github.com/WGinKajiado/portfolio/blob/main/assets/readme.jpg?raw=true)# portfolio
